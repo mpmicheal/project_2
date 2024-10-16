@@ -34,14 +34,14 @@ nav ul li a{
 main {
     max-width: 800px;
     margin: 2rem auto;
-    background-color: #fff;
+    background-color: #8ee0f5;
     padding: 2rem;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px 0;
 }
 
 h1, h2 {
-    color: #444;
+    color: #020a26;
 }
 
 nav ul li a:hover {
