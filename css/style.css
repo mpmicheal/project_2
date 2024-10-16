@@ -24,8 +24,8 @@ nav ul li a{
   font-weight: bold;
   color: #32e399;
   text-align: center;
-  width: 90px;
-  float: right;
+  font-size: 25px;
+  float: left;
   padding: 22px;
   
  
@@ -48,7 +48,7 @@ nav ul li a:hover {
   background-color: #d6d32b;
   color: #e35417;
   text-transform: uppercase;
-  
+   
    
   
 }
