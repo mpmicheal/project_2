@@ -64,6 +64,11 @@ p {
   line-height: 1.5;
 }
 
+.hotel-section {
+  text-align: right;
+  background-color: #f5e8d8;
+}
+
 nav ul li a:hover {
   background-color: #d6d32b;
   color: #e35417;
