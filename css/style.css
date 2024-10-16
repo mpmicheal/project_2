@@ -74,7 +74,7 @@ p {
 }
 
 nav ul li a:hover {
-  background-color: #d6d32b;
+  background-color: #3478ed;
   color: #e35417;
   text-transform: uppercase;   
   
@@ -84,6 +84,9 @@ nav ul li a:hover {
   background-color: #f0f8ff;
   padding: 1.5rem;
   border-left: 4px solid #1bab6f
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px 0;
 }
 
 .security-section {
