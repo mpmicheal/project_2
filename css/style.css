@@ -25,9 +25,9 @@ nav ul a{
   color: #32e399;
   text-align: center;
   width: 90px;
+  float: right;
   
-  
-  
+ 
 }
 
 main {
