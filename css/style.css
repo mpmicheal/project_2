@@ -1,5 +1,9 @@
+nav {
+  text-align: center;
+}
+
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     background-color: #05677a;
     color: #031c21;
     padding: 1rem;
@@ -16,6 +20,7 @@ nav ul {
     list-style: none;
     float: left;
     margin: 0, 20px;
+    padding: 0;
 }
 
 nav ul li a{
@@ -26,12 +31,13 @@ nav ul li a{
   text-align: center;
   font-size: 25px;
   float: left;
-  padding: 22px;
+  padding: 0.5rem 1rem;
   
  
 }
 
 main {
+    width: 90%;
     max-width: 800px;
     margin: 2rem auto;
     background-color: #8ee0f5;
@@ -40,8 +46,21 @@ main {
     box-shadow: 0 4px 8px 0;
 }
 
-h1, h2 {
+h1 {
+  
+    font-size: 3rem;
     color: #020a26;
+}
+
+h2 {
+  
+    font-size: 2rem;
+    color: #020a26;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 nav ul li a:hover {
