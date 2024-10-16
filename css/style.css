@@ -76,3 +76,8 @@ nav ul li a:hover {
   padding: 1.5rem;
   border-left: 4px solid #1bab6f
 }
+
+.security-section {
+    font-size: 1.2rem;
+    font-style: italic;
+}
