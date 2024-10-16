@@ -1,22 +1,33 @@
 body {
-    font-family: 'Arial', sans-serif; /* Browser-native font */
-    background-color: #f0f0f0;
-    color: #333;
+    font-family: 'Arial', sans-serif;
+    background-color: #05677a;
+    color: #031c21;
     padding: 1rem;
 }
 
 header {
-    background-color: #444;
-    color: #fff;
+    background-color: #17bdb4;
+    color: #1bab6f;
     padding: 1rem 0;
     text-align: center;
 }
 
 nav ul {
     list-style: none;
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
+    float: left;
+    margin: 0, 20px;
+}
+
+nav ul a{
+  display: block;
+  background: blue;
+  font-weight: bold;
+  color: #32e399;
+  text-align: center;
+  width: 90px;
+  
+  
+  
 }
 
 main {
@@ -30,4 +41,11 @@ main {
 
 h1, h2 {
     color: #444;
+}
+
+nav ul li a:hover {
+  background-color: #d6d32b;
+  color: #e35417;
+   
+  
 }
