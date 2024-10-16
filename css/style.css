@@ -3,7 +3,7 @@ nav {
 }
 
 body {
-    font-family: Roboto, Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     background-color: #05677a;
     color: #031c21;
     padding: 1rem;
@@ -19,8 +19,7 @@ header {
 nav ul {
     display: flex;
     list-style: none;
-    float: left;
-    margin: 0, 20px;
+    margin: 0 20px;
     padding: 0;
 }
 
@@ -29,9 +28,8 @@ nav ul li a{
   font-weight: bold;
   color: #32e399;
   text-align: center;
-  position: realtive;
+  position: relative;
   font-size: 25px;
-  float: left;
   padding: 0.5rem 1rem;
   
  
@@ -67,6 +65,7 @@ p {
 .hotel-section {
   text-align: right;
   background-color: #f5e8d8;
+  list-style: none;
 }
 
 nav ul li a:hover {
