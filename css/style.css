@@ -66,7 +66,11 @@ p {
 .hotel-section {
   text-align: right;
   background-color: #f5e8d8;
+}
+
+.hotel-section ul {
   list-style: none;
+  padding-left: 1.5rem;
 }
 
 nav ul li a:hover {
