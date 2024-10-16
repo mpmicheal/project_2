@@ -46,6 +46,10 @@ main {
     box-shadow: 0 4px 8px 0;
 }
 
+h1, h2, p {
+  margin: 1rem 0;
+}
+
 h1 {
   
     font-size: 3rem;
@@ -64,10 +68,11 @@ p {
 }
 
 .hotel-section {
-  text-align: right;
   background-color: #f5e8d8;
   padding-right: 2em;
   text-align: center;
+  width: 800px;
+  margin: 0 auto;
 }
 
 .hotel-section ul,
