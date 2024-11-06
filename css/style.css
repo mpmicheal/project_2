@@ -136,3 +136,8 @@ img {
   box-shadow: 0 2px 4px;
   display: inline-block;
 }
+
+nav ul li {
+  float: left;
+  margin-right: 1rem;
+}
