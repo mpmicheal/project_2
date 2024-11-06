@@ -3,25 +3,25 @@ nav {
 }
 
 body {
-    font-family: 'Roboto', Arial, sans-serif;
-    background-color: #05677a;
-    color: #031c21;
-    padding: 1rem;
+  font-family: 'Roboto', Arial, sans-serif;
+  background-color: #05677a;
+  color: #031c21;
+  padding: 1rem;
 }
 
 header {
-    background-color: #17bdb4;
-    color: #1bab6f;
-    padding: 1rem 0;
-    text-align: center;
+  background-color: #17bdb4;
+  color: #1bab6f;
+  padding: 1rem 0;
+  text-align: center;
 }
 
 nav ul {
-    display: flex;
-    list-style: none;
-    justify-content: center;
-    margin: 0;
-    padding: 0;
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
 }
 
 nav ul li a{
@@ -37,13 +37,13 @@ nav ul li a{
 }
 
 main {
-    width: 90%;
-    max-width: 800px;
-    margin: 2rem auto;
-    background-color: #8ee0f5;
-    padding: 2rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px 0;
+  width: 90%;
+  max-width: 800px;
+  margin: 2rem auto;
+  background-color: #8ee0f5;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0;
 }
 
 h1, h2, p {
@@ -51,15 +51,13 @@ h1, h2, p {
 }
 
 h1 {
-  
-    font-size: 3rem;
-    color: #020a26;
+  font-size: 3rem;
+  color: #020a26;
 }
 
 h2 {
-  
-    font-size: 2rem;
-    color: #020a26;
+  font-size: 2rem;
+  color: #020a26;
 }
 
 p {
@@ -98,29 +96,29 @@ nav ul li a:hover {
 }
 
 .security-section {
-    font-size: 1.2rem;
-    font-style: italic;
+  font-size: 1.2rem;
+  font-style: italic;
 }
 
 iframe {
-    display: block;
-    max-width: 100%;
-    width: 540px;
-    height: 285px;
-    margin: 2rem auto;
-    border: none;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px;
+  display: block;
+  max-width: 100%;
+  width: 540px;
+  height: 285px;
+  margin: 2rem auto;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px;
 }
 
 img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 2rem auto;
-    border-radius: 10px;
-    box-shadow: 0 6px 10px;
-    border: 3px solid #a39ea3;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2rem auto;
+  border-radius: 10px;
+  box-shadow: 0 6px 10px;
+  border: 3px solid #a39ea3;
 }
 
 .hotel-section h1 {
