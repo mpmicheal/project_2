@@ -141,3 +141,9 @@ nav ul li {
   float: left;
   margin-right: 1rem;
 }
+
+.security-section img {
+  float: right;
+  margin: 1rem;
+  max-width: 300px;
+}
